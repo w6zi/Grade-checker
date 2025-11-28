@@ -1,3 +1,4 @@
+Project was started in 2025. I'll try to make more updates on this
 # Grade-checker
 You can easily use this to manage school much better and in a fun way too! check README for more
 
