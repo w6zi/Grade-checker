@@ -60,6 +60,12 @@ All your data is stored locally in `grade_data.json` so nothing is lost when you
 3. Extract the folder somewhere on your computer
 4. Double click
 5. DONE!
+
+
+
+# Patch Notes
+Version 1: Nothing new, release
+Version 1.1: error fixes, Fun tab remove, theme settings with many new colors, POINT system instead of slider
 <img width="980" height="863" alt="Screenshot 2025-11-27 230234" src="https://github.com/user-attachments/assets/26c8aae6-8c04-4013-8200-da1bf66113a7" />
 <img width="989" height="868" alt="Screenshot 2025-11-27 230222" src="https://github.com/user-attachments/assets/d3b81bd3-47c3-4fa6-ac25-9d7bf250744c" />
 <img width="986" height="1007" alt="Screenshot 2025-11-27 230155" src="https://github.com/user-attachments/assets/c6569332-b662-4821-993e-d50293b464d4" />
