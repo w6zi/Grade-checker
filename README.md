@@ -72,4 +72,10 @@ All your data is stored locally in `grade_data.json` so nothing is lost when you
 <img width="983" height="868" alt="Screenshot 2025-11-27 230135" src="https://github.com/user-attachments/assets/b21c58e7-9ab8-4564-b54b-abafa7725f45" /><img width="992" height="868" alt="Screenshot 2025-11-27 230115" src="https://github.com/user-attachments/assets/a29da468-5e8b-4fae-9c36-c5a478750a6c" />
 <img width="985" height="871" alt="Screenshot 2025-11-27 230102" src="https://github.com/user-attachments/assets/575098f1-fb80-48c7-b212-fae7daeda8e3" />
 <img width="987" height="869" alt="Screenshot 2025-11-27 230020" src="https://github.com/user-attachments/assets/247e1e5c-305f-499b-8c47-deeb9d1842a2" />
+<img width="984" height="493" alt="image" src="https://github.com/user-attachments/assets/527f542f-c10b-49be-a261-8114cb5b0d6e" />
+<img width="986" height="487" alt="image" src="https://github.com/user-attachments/assets/88306be8-6572-4a27-9842-dd6302ab18fd" />
+<img width="995" height="489" alt="image" src="https://github.com/user-attachments/assets/9c1e8bb2-dcbd-4239-8736-840293fc8e64" />
+
+
+
 
